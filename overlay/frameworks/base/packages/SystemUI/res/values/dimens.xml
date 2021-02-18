@@ -49,6 +49,9 @@
     <!-- Margin on the right side of the center clock -->
     <dimen name="status_bar_center_clock_padding_end">124px</dimen>
 
+    <!-- End of the notification icon area -->
+    <dimen name="notification_icon_area_padding_end">125px</dimen>
+
     <!-- Alert Slider UI -->
     <dimen name="tri_state_down_dialog_position_l">350px</dimen>
     <dimen name="tri_state_middle_dialog_position_l">350px</dimen>
